@@ -3,6 +3,10 @@
 }
 .site-nav{
   background: rgba( 0, 255, 0, 0.15 );
+.container{
+ display: flex;
+ justify-content: space-between;
+}
 }
 .site-main {
   background: #ffc;
